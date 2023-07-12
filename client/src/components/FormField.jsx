@@ -1,6 +1,4 @@
 import React from 'react'
-import { preview } from '../assets';
-import { Form } from 'react-router-dom';
 
 const FormField = ({labelName,type,name,placeholder,value,handleChange,isSurpriseMe,handleSurpriseMe}) => {
   return (
